@@ -133,3 +133,20 @@ Regexp vs Explode/output/app_data.parquet/part-00000-4720d0cb-d7d8-4021-9125-88c
 mongoDB_spark/.vscode/settings.json
 mongoDB_spark/data
 Spark Performance/data/
+final_Single_node_processing/output
+final_Single_node_processing/data
+final_single_node_processing/.ipynb_checkpoints/Dask v2 runs-checkpoint.ipynb
+final_single_node_processing/.ipynb_checkpoints/dask_runs-checkpoint.ipynb
+final_single_node_processing/.ipynb_checkpoints/julia_runs-checkpoint.ipynb
+final_single_node_processing/.ipynb_checkpoints/pandas_runs-checkpoint.ipynb
+final_single_node_processing/.ipynb_checkpoints/Pandas-checkpoint.ipynb
+final_single_node_processing/.ipynb_checkpoints/r_runs-checkpoint.ipynb
+final_single_node_processing/.ipynb_checkpoints/spark_runs-checkpoint.ipynb
+final_single_node_processing/.ipynb_checkpoints/vaex_runs-checkpoint.ipynb
+final_single_node_processing/.output/file.csv/_SUCCESS
+final_single_node_processing/.output/file.csv/._SUCCESS.crc
+final_single_node_processing/.output/file.csv/.part-00000-48b85007-9053-4363-aa3d-06498452a2b2-c000.csv.crc
+final_single_node_processing/.output/file.csv/part-00000-48b85007-9053-4363-aa3d-06498452a2b2-c000.csv
+final_single_node_processing/.vscode/settings.json
+Single Node Processing/.ipynb_checkpoints/spark_apply-checkpoint.ipynb
+Single Node Processing/.ipynb_checkpoints/spark_test-checkpoint.ipynb

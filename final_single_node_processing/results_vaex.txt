@@ -1,0 +1,72 @@
+lazy_read|args:('hdf5',)|0.02783513069152832
+lazy_read_head|args:('hdf5',)|0.015557050704956055
+checkouts_get_count|args:('hdf5',)|0.04597187042236328
+checkouts_format_dt_first_10|args:('hdf5',)|2624.9180500507355
+checkouts_fix_date_min|args:('hdf5',)|2476.8047161102295
+read_both_join_head|args:('hdf5',)|8.889714241027832
+read_both_anti_join_head|args:('hdf5',)|20.286168098449707
+popular_subject|args:('hdf5',)|21.682666778564453
+popular_subject_from_taken_books|args:('hdf5',)|133.18837094306946
+read_write_inventory|args:('hdf5', <function writter_hdf5 at 0x11ec15ef0>)|11.369724035263062
+read_dedup_write_inventory|args:('hdf5', <function writter_hdf5 at 0x11ec15ef0>)|9.507314920425415
+read_write_checkouts|args:('hdf5', <function writter_hdf5 at 0x11ec15ef0>)|108.08879208564758
+read_fix_date_write_checkouts|args:('hdf5', <function writter_hdf5 at 0x11ec15ef0>)|1648.864744901657
+read_inv_explode_write|args:('hdf5', <function writter_hdf5 at 0x11ec15ef0>)|36.239201068878174
+read_write_inventory|args:('hdf5', <function writter_csv at 0x11ec15560>)|25.26990795135498
+read_dedup_write_inventory|args:('hdf5', <function writter_csv at 0x11ec15560>)|10.937826871871948
+read_write_checkouts|args:('hdf5', <function writter_csv at 0x11ec15560>)|312.5111930370331
+read_fix_date_write_checkouts|args:('hdf5', <function writter_csv at 0x11ec15560>)|1985.125137090683
+read_inv_explode_write|args:('hdf5', <function writter_csv at 0x11ec15560>)|20.426330089569092
+read_write_inventory|args:('hdf5', <function writter_parquet at 0x11ec15b00>)|8.797106981277466
+read_dedup_write_inventory|args:('hdf5', <function writter_parquet at 0x11ec15b00>)|7.313820123672485
+read_write_checkouts|args:('hdf5', <function writter_parquet at 0x11ec15b00>)|272.34866094589233
+read_fix_date_write_checkouts|args:('hdf5', <function writter_parquet at 0x11ec15b00>)|2816.5203828811646
+read_inv_explode_write|args:('hdf5', <function writter_parquet at 0x11ec15b00>)|16.324613094329834
+lazy_read|args:('parquet',)|10.502588033676147
+lazy_read_head|args:('parquet',)|14.918011903762817
+checkouts_get_count|args:('parquet',)|12.6615149974823
+checkouts_format_dt_first_10|args:('parquet',)|2562.386423110962
+checkouts_fix_date_min|args:('parquet',)|2544.5992197990417
+read_both_join_head|args:('parquet',)|48.61470580101013
+read_both_anti_join_head|args:('parquet',)|3471.616184949875
+popular_subject|args:('parquet',)|28.831806898117065
+popular_subject_from_taken_books|args:('parquet',)|252.56642079353333
+read_write_inventory|args:('parquet', <function writter_hdf5 at 0x11ec15ef0>)|29.360924005508423
+read_dedup_write_inventory|args:('parquet', <function writter_hdf5 at 0x11ec15ef0>)|21.80832314491272
+read_write_checkouts|args:('parquet', <function writter_hdf5 at 0x11ec15ef0>)|364.7327127456665
+read_fix_date_write_checkouts|args:('parquet', <function writter_hdf5 at 0x11ec15ef0>)|2385.038621902466
+read_inv_explode_write|args:('parquet', <function writter_hdf5 at 0x11ec15ef0>)|90.55341792106628
+read_write_inventory|args:('parquet', <function writter_csv at 0x11ec15560>)|40.18144607543945
+read_dedup_write_inventory|args:('parquet', <function writter_csv at 0x11ec15560>)|21.43556785583496
+read_write_checkouts|args:('parquet', <function writter_csv at 0x11ec15560>)|472.2417299747467
+read_fix_date_write_checkouts|args:('parquet', <function writter_csv at 0x11ec15560>)|2475.997657060623
+read_inv_explode_write|args:('parquet', <function writter_csv at 0x11ec15560>)|36.34706902503967
+read_write_inventory|args:('parquet', <function writter_parquet at 0x11ec15b00>)|19.606953859329224
+read_dedup_write_inventory|args:('parquet', <function writter_parquet at 0x11ec15b00>)|17.531650066375732
+read_write_checkouts|args:('parquet', <function writter_parquet at 0x11ec15b00>)|453.99821305274963
+read_fix_date_write_checkouts|args:('parquet', <function writter_parquet at 0x11ec15b00>)|2968.4969170093536
+read_inv_explode_write|args:('parquet', <function writter_parquet at 0x11ec15b00>)|22.684346199035645
+lazy_read|args:('single-csv',)|0.08338308334350586
+lazy_read_head|args:('single-csv',)|0.09755921363830566
+checkouts_get_count|args:('single-csv',)|0.039205312728881836
+checkouts_format_dt_first_10|args:('single-csv',)|2522.170151948929
+checkouts_fix_date_min|args:('single-csv',)|2483.408565759659
+read_both_join_head|args:('single-csv',)|18.214271306991577
+read_both_anti_join_head|args:('single-csv',)|30.036394119262695
+popular_subject|args:('single-csv',)|31.50961208343506
+popular_subject_from_taken_books|args:('single-csv',)|150.12049102783203
+read_write_inventory|args:('single-csv', <function writter_hdf5 at 0x11ec15ef0>)|21.51325798034668
+read_dedup_write_inventory|args:('single-csv', <function writter_hdf5 at 0x11ec15ef0>)|18.447453022003174
+read_write_checkouts|args:('single-csv', <function writter_hdf5 at 0x11ec15ef0>)|112.67280387878418
+read_fix_date_write_checkouts|args:('single-csv', <function writter_hdf5 at 0x11ec15ef0>)|1633.3107471466064
+read_inv_explode_write|args:('single-csv', <function writter_hdf5 at 0x11ec15ef0>)|22.297550916671753
+read_write_inventory|args:('single-csv', <function writter_csv at 0x11ec15560>)|35.285974979400635
+read_dedup_write_inventory|args:('single-csv', <function writter_csv at 0x11ec15560>)|20.386263132095337
+read_write_checkouts|args:('single-csv', <function writter_csv at 0x11ec15560>)|318.6570839881897
+read_fix_date_write_checkouts|args:('single-csv', <function writter_csv at 0x11ec15560>)|1978.581340789795
+read_inv_explode_write|args:('single-csv', <function writter_csv at 0x11ec15560>)|32.33159613609314
+read_write_inventory|args:('single-csv', <function writter_parquet at 0x11ec15b00>)|21.187296152114868
+read_dedup_write_inventory|args:('single-csv', <function writter_parquet at 0x11ec15b00>)|18.679007291793823
+read_write_checkouts|args:('single-csv', <function writter_parquet at 0x11ec15b00>)|283.74857997894287
+read_fix_date_write_checkouts|args:('single-csv', <function writter_parquet at 0x11ec15b00>)|2880.3792672157288
+read_inv_explode_write|args:('single-csv', <function writter_parquet at 0x11ec15b00>)|23.550705194473267
